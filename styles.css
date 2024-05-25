@@ -1,0 +1,32 @@
+#name-label, #email-label, #number-label, #dropdown {
+  display:block;
+}
+body {
+  background-color: black;
+  border: solid 4px pink;
+  margin: auto;
+  font-family: Georgia, serif;
+  color: black;
+}
+h1, p {
+  background-color:pink;
+  width: 50%;
+  margin: auto;
+  text-align: center;
+}
+#survey-form {
+  margin-top: 20px
+}
+div {
+  width:75%;
+  margin: auto;
+  text-align: center;
+  background-color: pink;
+  padding: 10px;
+}
+#dropdown {
+  margin:auto;
+}
+textarea {
+  width:75%;
+}
